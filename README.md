@@ -2,8 +2,7 @@
 udacity full stack linux deployment project
 
 ## The project's Information:
-[articlehive.be](articlehive.be)
-ec2-3-122-17-53.eu-central-1.compute.amazonaws.com
+[articlehive.be]
 #### ip:
 3.122.17.53
 
@@ -127,4 +126,4 @@ postgres=# grant all privileges on database catalog to catalog;
 `engine = create_engine('postgresql://catalog:password@localhost/catalog')`
 21. `sudo service apache2 restart` 
 
-the application is now alive at: articlehive.be
+the application is now alive at: [articlehive.be]
