@@ -127,3 +127,7 @@ postgres=# grant all privileges on database catalog to catalog;
 21. `sudo service apache2 restart` 
 
 the application is now alive at: [articlehive.be](articlehive.be)
+
+## Special thanks to the writers of these two articles:
+[https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps](How To Deploy a Flask Application on an Ubuntu VPS)
+[https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e](Creating user, database and adding access on PostgreSQL)
