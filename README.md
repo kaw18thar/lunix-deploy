@@ -2,7 +2,7 @@
 udacity full stack linux deployment project
 
 ## The project's Information:
-[http://articlehive.be](articlehive.be)
+[articlehive.be](http://articlehive.be)
 #### ip:
 3.122.17.53
 
@@ -126,8 +126,8 @@ postgres=# grant all privileges on database catalog to catalog;
 `engine = create_engine('postgresql://catalog:password@localhost/catalog')`
 21. `sudo service apache2 restart` 
 
-the application is now alive at: [http://articlehive.be](articlehive.be)
+the application is now alive at: [articlehive.be](http://articlehive.be)
 
 ## Special thanks to the writers of these two articles:
-[https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps](How To Deploy a Flask Application on an Ubuntu VPS)
-[https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e](Creating user, database and adding access on PostgreSQL)
+[How To Deploy a Flask Application on an Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
+[Creating user, database and adding access on PostgreSQL](https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e)
